@@ -1,9 +1,9 @@
 # main text of home
-name: Niveditha Ram
-bio: 'Physics, Teaching, Engineering.'
+name: Mederbek Begmatov
+bio: Software Engineer
 
 # twitter summary info
-description: A blog about Physics and teaching science
+description: A blog about >>>
 
 # if it's an external image, update below for true
 # better with square images
@@ -11,7 +11,7 @@ external-image: false
 picture: 'assets/images/profile.jpg'
 
 # url: http://artiannaswamy.com
-# your url: http://USERNAME.github.io
+your url: http://mederbek0.github.io
 
 permalink: /:title/
 
@@ -26,24 +26,24 @@ highlighter: rouge
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: NivedithaRam
+twitter: None
 # google: mygoogle
 # instagram: myinstagram
 #pinterest: annasw
 #linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
-github: NivedithaRam
+github: None
 # medium: medium
-email: niveditha.ramasubramanian@stonybrook.edu
+email: hello@mederbek.com
 
 authors:
     NivedithaRam:
-        name: Niveditha Ram
-        bio: Physics, Reading, Teaching.
+        name: Mederbek Begmatov
+        bio: Software Engineer
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: NivedithaRam
+        twitter: None
 
 
 # do you want a larger site? change the option below
