@@ -1,6 +1,6 @@
 # main text of home
 name: Mederbek Begmatov
-bio: Software Engineer
+bio: Software Engineer at United Nations
 
 # twitter summary info
 description: A blog about >>>
@@ -40,7 +40,7 @@ email: hello@mederbek.com
 authors:
     NivedithaRam:
         name: Mederbek Begmatov
-        bio: Software Engineer
+        bio: Software Engineer at United Nations
         external-image: false
         picture: assets/images/profile.jpg
         twitter: None
